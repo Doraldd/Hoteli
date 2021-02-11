@@ -62,4 +62,10 @@
 }
 
 /* Contact */
-#contact-fo…
+#contact-form {
+  padding-top: 13rem;
+}
+
+#contact-info .box {
+  border-bottom: #444 dotted 1px;
+}
